@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariano Silva</h1>
-<h3 align="center">A technology passionate enthusiast from Chile.</h3>
+<h3 align="center">A technology enthusiast from Chile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goro2030&label=Profile%20views&color=0e75b6&style=flat" alt="goro2030" /> </p>
 
